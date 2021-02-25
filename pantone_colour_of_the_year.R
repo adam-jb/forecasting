@@ -1,4 +1,6 @@
 
+# code to predict Pantone's next colour of the year, as per the question: 
+# https://www.metaculus.com/questions/3420/what-will-be-pantones-color-of-the-year-for-2021/
 
 library(tidyverse)
 library(ranger)
